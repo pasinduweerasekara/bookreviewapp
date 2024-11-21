@@ -17,27 +17,30 @@
    cd BookRevieApp
 2. Install dependencies:
   ```bash
-  cd ./backend
-  npm install
-```
+   cd ./backend
+   npm install
+  ```
 
 3. Set up environment variables:
 Create a .env file in the root directory and add the following:
 
   ```env
+
    MONGO_URI=mongodb+srv://wmpmweerasekara:RU6iQE9HWZEZLqTs@cluster0.247h7.mongodb.net/BookReviewApp
-PORT=5000
-NODE_ENV=development
-JWT_SECRET=SECRET
-```
+   PORT=5000
+   NODE_ENV=development
+   JWT_SECRET=SECRET
+  ```
 
 4. Run the application:
    ```bash
+   
    nodemon server.js
    ```
 5. Open un another Terminal in the base rirectory and run following commands
 
    ```bash
+   
    cd ./frontend
    npm install
    ```
@@ -45,13 +48,15 @@ JWT_SECRET=SECRET
 Create a .env file in the root directory and add the following:
 
 ```env
-VITE_BASE_URL=http://localhost:5000
+
+     ]VITE_BASE_URL=http://localhost:5000
 ```
 
 7. Start the Application
 
    ```bash
-   npm run dev
+   
+       npm run dev
    ```
 ## Tech Stack
 Frontend: React.js with Vite
