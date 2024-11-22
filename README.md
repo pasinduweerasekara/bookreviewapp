@@ -54,6 +54,7 @@ VITE_BASE_URL=http://localhost:5000
        npm run dev
    ```
 8. use following credentials to login to the application, Currently the application not providing any validations errors in UI
+   <br>
    Email
    ```bash
    test@test.com
@@ -66,10 +67,10 @@ VITE_BASE_URL=http://localhost:5000
 10. When Creating a user, Password mustbe atleast 6 characters long, Currently the application not providing any validations errors in UI
 
 ## Tech Stack
-Frontend: React.js with Vite
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT-based Authentication
+Frontend: React.js with Vite<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
+Authentication: JWT-based Authentication<br>
 
 
 
