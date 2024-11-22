@@ -55,6 +55,8 @@ VITE_BASE_URL=http://localhost:5000
    ```
 8. use following credentials to login to the application, Currently the application not providing any validations errors in UI
    <br>
+   <br>
+   <br>
    Email
    ```bash
    test@test.com
