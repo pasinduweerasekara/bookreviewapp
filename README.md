@@ -53,9 +53,9 @@ VITE_BASE_URL=http://localhost:5000
    
        npm run dev
    ```
-8. use following credentials to login to the application
+8. use following credentials to login to the application, Currently the application not providing any validations errors in UI
    email : test@test.com
-   password : qwerty
+   password : asdfgh
 
 10. When Creating a user, Password mustbe atleast 6 characters long, Currently the application not providing any validations errors in UI
 
